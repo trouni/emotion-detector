@@ -7,7 +7,8 @@ verify_ssl = true
 
 [packages]
 responder = "*"
-uvicorn = "*"
+fastai = "*"
+pytorch = "*"
 
 [requires]
 python_version = "3.8"
